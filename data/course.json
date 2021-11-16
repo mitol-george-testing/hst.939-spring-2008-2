@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedical Enterprise"
+    ],
+    [
+      "Business",
+      "Health Care Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d1efae2a-dfbd-2d93-9389-dfe704c68392",
+      "147d0bd5-1247-d44b-de51-05b534f61044"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Designing and Sustaining Technology Innovation for Global Health Practice",
+  "course_description": "Innovation in global health practice requires leaders who are trained to think and act like entrepreneurs. Whether at a hospital bedside or in a remote village, global healthcare leaders must understand both the business of running a social venture as well as how to plan for and provide access to life saving medicines and essential health services.\n\nEach week, the course features a lecture and skills-based tutorial session led by industry, non-profit foundation, technology, and academic leaders to think outside the box in tackling and solving problems in innovation for global health practice through the rationale design of technology and service solutions. The lectures provide the foundation for faculty-mentored pilot project from MOH, students, or non-profit sponsors that may involve creation of a market or business plan, product development, or a research study design.\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.939",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
